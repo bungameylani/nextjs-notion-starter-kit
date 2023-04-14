@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Bunga Meylani',
-  domain: 'vercel.bungameylani.eu.org',
+  domain: 'bungameylani.eu.org',
   author: 'Bunga Meylani',
 
   // open graph metadata (optional)
